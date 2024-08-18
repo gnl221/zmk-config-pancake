@@ -23,7 +23,7 @@
                 &kp TAB     &kp Q       &kp W       &kp E       &kp R       &kp T       &kp Y       &kp U       &kp I       &kp O     &kp P       &kp BSPC
                 &kp LCTRL   &kp A       &kp S       &kp D       &kp F       &kp G       &kp H       &kp J       &kp K       &kp L     &kp SEMI    &kp SQT
                 &kp LSHFT   &kp Z       &kp X       &kp C       &kp V       &kp B       &kp N       &kp M       &kp COMMA   &kp DOT   &kp UP      &kp ESC
-                &kp LALT   &kp DEL    &kp FNC    &mo LGUI     &mo LWR     &kp ENTER   &kp SPACE   &mo RSE     &kp SLASH   &kp LEFT  &kp DOWN  &kp RIGHT
+                &kp LALT   &kp DEL    &mo FNC    &kp LGUI     &mo RSE     &kp ENTER   &kp SPACE   &mo LWR     &kp SLASH   &kp LEFT  &kp DOWN  &kp RIGHT
             >;
         };
 
